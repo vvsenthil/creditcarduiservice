@@ -8,9 +8,9 @@ This is a front end web page developed using React Rest JS to capture credit car
 
 To get the Front-end App running locally: 
 
-1. Clone the repo
-2. npm install to install all required dependencies
-3. npm start to start the local server
+1. Clone the repo as <b>git clone https://github.com/vvsenthil/creditcarduiservice </b>
+2. <b>npm install</b> to install all required dependencies
+3. <b>npm start</b> to start the local server
 
 This project uses create-react-app. The Application should run on http://localhost:3000/
 ```
