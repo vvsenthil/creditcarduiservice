@@ -20,6 +20,8 @@ This project uses create-react-app. The Application should run on http://localho
 3. Ajax Jquery
 4. CSS
 
+React was used to create a single-page dynamic UI and Ajax JQuery is to handle the REST requests from front-end to back-end.
+
 ## Sample Result: 
 
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/23616270/182035766-d86fe698-af53-47ab-8796-652536de4f75.png">
