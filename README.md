@@ -14,8 +14,8 @@ To get the Front-end App running locally:
 
 This project uses create-react-app. The Application should run on http://localhost:3000/
 
-```
+
 ## Sample Result: 
 
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/23616270/182035766-d86fe698-af53-47ab-8796-652536de4f75.png">
-```
+
