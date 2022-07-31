@@ -14,6 +14,11 @@ To get the Front-end App running locally:
 
 This project uses create-react-app. The Application should run on http://localhost:3000/
 
+## Application requirements 
+1. React
+2. Javascript (EcmaScript 6)
+3. Ajax Jquery
+4. CSS
 
 ## Sample Result: 
 
